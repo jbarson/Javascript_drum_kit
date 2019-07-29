@@ -4,7 +4,7 @@
     this.classList.remove("playing");
   }
   function letsGo() {
-    console.log("go");
+    console.log("go baby");
   }
   function playAudio(e) {
     const audio = document.querySelector(`audio[data-key="${e.keyCode}"]`);
