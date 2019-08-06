@@ -4,7 +4,7 @@
     this.classList.remove("playing");
   }
   function letsGo() {
-    console.log("go baby go baby baby");
+    console.log("go baby go baby baby baby");
     console.warn("this is a bug!");
   }
   function playAudio(e) {
