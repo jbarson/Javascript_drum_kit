@@ -5,6 +5,7 @@
   }
   function letsGo() {
     console.log("go baby go baby baby baby");
+    console.warn("this is a bug!");
   }
   function playAudio(e) {
     const audio = document.querySelector(`audio[data-key="${e.keyCode}"]`);
