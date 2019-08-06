@@ -6,8 +6,10 @@
   function letsGo() {
     console.log("go baby go baby baby baby");
     console.warn("this is a bug!");
+
     console.info("this is an amazing feature!");
     console.debug("another amazing feature!");
+    console.warn("this is another bug!");
   }
   function playAudio(e) {
     const audio = document.querySelector(`audio[data-key="${e.keyCode}"]`);
