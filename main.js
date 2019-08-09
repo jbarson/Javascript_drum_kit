@@ -7,6 +7,7 @@
     console.log("go baby go baby baby baby");
     console.warn("this is a bug!");
     console.warn("this is a worse bug");
+    console.info("I like turtles");
   }
   function playAudio(e) {
     const audio = document.querySelector(`audio[data-key="${e.keyCode}"]`);
