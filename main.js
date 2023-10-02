@@ -7,6 +7,7 @@
     console.log("go baby go baby baby baby");
     console.warn("this is a bug!");
     console.warn("this is a worse bug");
+    console.info("I like turtles");
     console.info("this is an amazing feature!");
     console.debug("another amazing feature!");
     console.warn("this is another bug!");
